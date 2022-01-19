@@ -1,0 +1,12 @@
+.vs
+.vscode
+Binaries
+Build
+Intermediate
+Saved
+OutPut/*
+*.rar
+*.sln
+desktop.ini
+.j
+*.pak
